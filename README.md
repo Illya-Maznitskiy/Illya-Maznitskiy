@@ -1,16 +1,49 @@
-<h1 align="center">Hi 👋, I'm Illia</h1>
-<h3 align="center">A backend Python developer</h3>
+<h1 align="left">Hey 👋</h1>
 
-- 🔭 I’m currently working on [Husto Language Studio](https://github.com/Team94Mate/husto_language_studio)
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/illya-maznitskiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="illya-maznitskiy" height="30" width="40" /></a>
-</p>
+<p align="left">My name is Illia, and I'm a Backend Python Developer</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=illya-maznitskiy&show_icons=true&locale=en&layout=compact" alt="illya-maznitskiy" /></p>
+<h2 align="left">About me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illya-maznitskiy&" alt="illya-maznitskiy" /></p>
+###
+
+<p align="left">📚 Skills<br><br>Object-Oriented Programming (OOP): SOLID principles, Design patterns<br>Python: Python 3.10+, Advanced Python (Decorators, Iterators, Generators), Pygame, Asynchronous Python (asyncio, Concurrency, Parallelism)<br>Data Analysis: Matplotlib<br>Web Development Frameworks: Django, Django ORM, Django Rest Framework<br>Databases: PostgreSQL, SQLite<br>Web Technologies: HTML, CSS<br>Version Control & Collaboration: Git/GitHub<br>Development Tools: Debugging, Docker<br>🎯 Goals<br>Solving real-world problems through development and continuously improving my skills.<br><br>📞 Contact<br><br>Email: illia.maznitskyi@gmail.com<br>LinkedIn: [Link]<br>GitHub: [Link]<br>Telegram: [Link]<br>Location: Ukraine<br>💻 About Me<br>I’m a motivated Python developer with experience in building web applications. I have a solid understanding of Python, OOP, Django, Django ORM, Django Rest Framework, PostgreSQL, SQLite, HTML, CSS, Git, GitHub, Debugging, Docker, and Agile development. I’ve worked on various projects, gaining hands-on experience with API development, unit testing, Docker integration, and backend/frontend collaboration. I’m passionate about solving real-world problems and collaborating with teams.<br><br>💼 Work<br>Python Developer | Husto Language Studio<br>July 2024 - Present<br><br>Developed DRF RESTful APIs<br>Added unit tests and integrated backend/frontend<br>Implemented Docker support and Docker Compose<br>Created detailed README.md and backend documentation using Swagger<br>Evaluated AWS Lightsail as a hosting option<br>🎮 Portfolio<br><br>Restaurant Kitchen Service: Django project for communication and rules between cooks in the kitchen.<br>Theatre API Service: API for a local theater, allowing visitors to make online reservations.<br>Alien Invasion: Simple 2D Pygame game where you control a spaceship to shoot and destroy invading aliens.<br>📚 Additional Learning<br><br>Books:<br>Python Crash Course, 2nd Edition by Eric Matthes<br>The Richest Man in Babylon by George S. Clason<br>Atomic Habits by James Clear<br>Talkability by James Borg<br>Eat That Frog! by Brian Tracy<br>🎲 Fun Fact<br>I wrote "Hello World" once—now I’m unstoppable. ☕🐍💻</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Illya-Maznitskiy/Illya-Maznitskiy/output/snake.svg" alt="Snake animation" />
+
+###
