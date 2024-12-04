@@ -4,8 +4,7 @@
 
 <h2 align="left">About Me</h2>
 
-I'm Illia, a **Backend Python Developer** focused on solving real-world problems with code and building web applications. I have a solid understanding of **Python**, **OOP**, **Django**, **Django ORM**, **Django Rest Framework**, **PostgreSQL**, **SQLite**, **HTML**, **CSS**, **Git**, **GitHub**, **Debugging**, **Docker**, and **Agile** in Team development. In my last role as a backend Python developer within a team project, I gained hands-on experience with **API**, **Django ORM**, **DRF**, **Docker**, **Agile**, **Scrum methodology**, and communication skills. Also, I have deeper insight into building web apps, from the ground up, beginning with the design phase, moving to frontend development, and then focusing on backend logic and deployment. My experience building and optimizing web services' backend parts, **API integration**, and project deployment meet these skills. I’m inspired by solving real-world problems, continuously developing my skills, and collaborating with a team to share knowledge.
-
+I'm Illia, a **Backend Python Developer** focused on solving real-world problems with code and building web applications. I have a solid understanding of **Python**, **OOP**, **Django**, **Django ORM**, **Django Rest Framework**, **PostgreSQL**, **SQLite**, **HTML**, **CSS**, **Git**, **GitHub**, **Debugging**, **Docker**, and **Agile** in Team development. In my last role as a backend Python developer within a team project, I gained hands-on experience with **API**, **Django ORM**, **DRF**, **Docker**, **Agile**, **Scrum methodology**, and communication skills. I enjoy learning and creating practical solutions.
 
 
 - 🎯 **Goals**:  
