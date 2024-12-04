@@ -7,6 +7,7 @@
 I'm Illia, a **Backend Python Developer** focused on solving real-world problems with code and building web applications. I have a solid understanding of **Python**, **OOP**, **Django**, **Django ORM**, **Django Rest Framework**, **PostgreSQL**, **SQLite**, **HTML**, **CSS**, **Git**, **GitHub**, **Debugging**, **Docker**, and **Agile** in Team development. In my last role as a backend Python developer within a team project, I gained hands-on experience with **API**, **Django ORM**, **DRF**, **Docker**, **Agile**, **Scrum methodology**, and communication skills. I enjoy learning and creating practical solutions.
 
 
+
 - 🎯 **Goals**:  
   Continuously improve my skills and solve practical challenges through development.  
 
@@ -24,7 +25,7 @@ I'm Illia, a **Backend Python Developer** focused on solving real-world problems
   - *Talkability* by James Borg  
   - *Eat That Frog!* by Brian Tracy
 
-- 📞 **Contact**:  
+- 📞 **Contacts**:  
   - Email: illia.maznitskyi@gmail.com  
   - LinkedIn: [Link](https://www.linkedin.com/in/illya-maznitskiy/)
   - Telegram: [Link](https://t.me/Illya_37)
