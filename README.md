@@ -4,23 +4,28 @@
 
 <h2 align="left">About Me</h2>
 
-I'm Illia, a **Backend Python Developer** focused on solving real-world problems with code and building web applications. I have a solid understanding of **Python**, **OOP**, **Django**, **Django ORM**, **Django Rest Framework**, **PostgreSQL**, **SQLite**, **HTML**, **CSS**, **Git**, **GitHub**, **Debugging**, **Docker**, and **Agile** in Team development. In my last role as a backend Python developer within a team project, I gained hands-on experience with **API**, **Django ORM**, **DRF**, **Docker**, **Agile**, **Scrum methodology**, and communication skills. I enjoy learning and creating practical solutions.
+I'm Illia, a Backend Python Developer skilled in Python, Django, FastAPI, PostgreSQL, Docker, and Git.
 
+I have experience teaching Python, simplifying complex concepts and creating hands-on projects like Telegram chatbots. Additionally, I developed a DRF API for English school, integrated it with the frontend, and worked with Docker and PostgreSQL.
 
+I’m passionate about solving real-world problems and continuously improving my skills.
 
-- 🎯 **Goals**:  
-  Continuously improve my skills and solve practical challenges through development.  
+<p>‎  </p>
 
 - 💻 **Skills**:  
-  - **Programming**: Python (3.10+, Advanced Python features like Decorators, Generators, Asyncio), OOP (SOLID, Design Patterns).  
-  - **Web Development**: Django, Django ORM, Django REST Framework, HTML, CSS.  
-  - **Databases**: PostgreSQL, SQLite.  
-  - **Tools & Tech**: Docker, Git, GitHub, Debugging, Agile practices.  
-  - **Data Analysis**: Matplotlib.
+  - **Object-Oriented Programming (OOP)**: SOLID principles, Design patterns.  
+  - **Python**: Python 3.10+, Advanced Python (Decorators, Iterators, Generators), Asyncio, Pygame.  
+  - **Web Scraping & Data Analysis**: Scrapy, Selenium, NumPy, Pandas, Matplotlib.  
+  - **Web Development**: Django, ORM, DRF, FastAPI, Flask, Telegram Bot API.  
+  - **Machine Learning & AI**: TensorFlow, Kaggle.  
+  - **Databases**: PostgreSQL, MySQL, SQLite.  
+  - **Web Technologies**: HTML, CSS, JavaScript.  
+  - **Version Control & Collaboration**: Git, GitHub.  
+  - **Development Tools**: Docker, Jira.  
 
-- 📚 **Books**:
+- 📚 **Books**:  
   - *Python Crash Course, 2nd Edition* by Eric Matthes  
-  - *The Richest Man in Babylon* by George S. Clason  
+  - *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People* by Aditya Bhargava  
   - *Atomic Habits* by James Clear  
   - *Talkability* by James Borg  
   - *Eat That Frog!* by Brian Tracy
