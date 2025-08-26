@@ -4,24 +4,22 @@
 
 <h2 align="left">About Me</h2>
 
-I'm Illia, a Backend Python Developer skilled in Python, Django, FastAPI, PostgreSQL, Docker, and Git.
+I’m Illia, a Python backend developer, building web apps, APIs, and automation projects.
 
-I have experience teaching Python, simplifying complex concepts and creating hands-on projects like Telegram chatbots. Additionally, I developed a DRF API for English school, integrated it with the frontend, and worked with Docker and PostgreSQL.
+I’ve built a web app with DRF for an English school, taught Python, and created automation and data analysis projects.
 
-I’m passionate about solving real-world problems and continuously improving my skills.
+I enjoy solving real-world problems and improving my skills.
 
 <p>‎  </p>
 
-- 💻 **Skills**:  
-  - **Object-Oriented Programming (OOP)**: SOLID principles, Design patterns.  
-  - **Python**: Python 3.10+, Advanced Python (Decorators, Iterators, Generators), Asyncio, Pygame.  
-  - **Web Scraping & Data Analysis**: Scrapy, Selenium, NumPy, Pandas, Matplotlib.  
-  - **Web Development**: Django, ORM, DRF, FastAPI, Flask, Telegram Bot API.  
-  - **Machine Learning & AI**: TensorFlow, Kaggle.  
-  - **Databases**: PostgreSQL, MySQL, SQLite.  
-  - **Web Technologies**: HTML, CSS, JavaScript.  
-  - **Version Control & Collaboration**: Git, GitHub.  
-  - **Development Tools**: Docker, Jira.  
+- 💻 **Skills**:
+  - **Python & OOP**: Python 3.10+, SOLID, Asyncio
+  - **Web Development**: Django, DRF, FastAPI, Flask, APIs
+  - **Data & Automation**: Web scraping (Scrapy, Selenium), Data analysis (NumPy, Pandas, Matplotlib)
+  - **AI / Machine Learning**: TensorFlow, Kaggle
+  - **Databases**: PostgreSQL, MySQL, SQLite
+  - **Web Technologies**: HTML, CSS, JavaScript
+  - **Tools & Collaboration**: Git, Docker, Jira
 
 - 📚 **Books**:  
   - *Python Crash Course, 2nd Edition* by Eric Matthes  
@@ -39,7 +37,7 @@ I’m passionate about solving real-world problems and continuously improving my
 ---
 
 ## 🎲 Fun Fact
-I wrote "Hello World" once—now I’m unstoppable. 🐍💻
+I started by printing my age in Python… now I build web apps, automate tasks, and analyze data. 🐍💻
 
 ---
 
