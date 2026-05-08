@@ -31,7 +31,6 @@ I enjoy solving real-world problems and improving my skills.
 - 📞 **Contacts**:  
   - Email: illia.maznitskyi@gmail.com  
   - LinkedIn: [Link](https://www.linkedin.com/in/illya-maznitskiy/)
-  - Telegram: [Link](https://t.me/Illya_37)
 
 
 ---
