@@ -1,76 +1,56 @@
-<h1 align="left">Hey There 👋</h1>
+# Hi, I'm Illia 👋
+
+**Python Backend Engineer** · DevOps & Automation · 2 years of experience
+
+📍 Poland · open to remote, hybrid, on-site and relocation  
+🟢 **Open to work:** Python Backend · DevOps / Cloud · Data Engineering · AI Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/illia-maznitskyi/)
+[![Email](https://img.shields.io/badge/Email-illia.maznitskyi%40gmail.com-555555?style=flat-square)](mailto:illia.maznitskyi@gmail.com)
+
+I build APIs, automation and data pipelines.  
+Now: Backend Engineer at **VanOnGo**, a last-mile logistics system handling 1M+ requests per day.
 
 ---
 
-<h2 align="left">About Me</h2>
+## Stack
 
-I’m Illia, a Python backend developer, building web apps, APIs, and automation projects.
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cfastapi%2Cflask%2Cpostgres%2Credis%2Caws%2Cdocker%2Cterraform%2Cgithubactions%2Clinux%2Cbash%2Cgit%2Ctensorflow&theme=dark&perline=14" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,redis,aws,docker,terraform,githubactions,linux,bash,git,tensorflow&theme=light&perline=14" alt="Python, Django, FastAPI, Flask, PostgreSQL, Redis, AWS, Docker, Terraform, GitHub Actions, Linux, Bash, Git, TensorFlow" />
+</picture>
+</p>
 
-I’ve built a web app with DRF for an English school, taught Python, and created automation and data analysis projects.
-
-I enjoy solving real-world problems and improving my skills.
-
-<p>‎  </p>
-
-- 💻 **Skills**:
-  - **Python & OOP**: Python 3.10+, SOLID, Asyncio
-  - **Web Development**: Django, DRF, FastAPI, Flask, APIs
-  - **Data & Automation**: Web scraping (Scrapy, Selenium), Data analysis (NumPy, Pandas, Matplotlib)
-  - **AI / Machine Learning**: TensorFlow, Kaggle
-  - **Databases**: PostgreSQL, MySQL, SQLite
-  - **Web Technologies**: HTML, CSS, JavaScript
-  - **Tools & Collaboration**: Git, Docker, Jira
-
-- 📚 **Books**:  
-  - *Python Crash Course, 2nd Edition* by Eric Matthes  
-  - *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People* by Aditya Bhargava  
-  - *Atomic Habits* by James Clear  
-  - *Talkability* by James Borg  
-  - *Eat That Frog!* by Brian Tracy
-
-- 📞 **Contacts**:  
-  - Email: illia.maznitskyi@gmail.com  
-  - LinkedIn: [Link](https://www.linkedin.com/in/illya-maznitskiy/)
-
+- **Backend:** Python, Django/DRF, FastAPI, Flask, asyncio, SQLAlchemy
+- **Databases:** PostgreSQL, Redis, NoSQL
+- **Cloud & DevOps:** AWS, Docker, Terraform, CI/CD, Linux, Bash, Git
+- **Data, Automation & AI:** ETL pipelines, Scrapy, Playwright, Pandas, Matplotlib, TensorFlow, LLM APIs, Claude Code
+- **Testing & Tools:** pytest, Logging & Monitoring, Jira
+- **Frontend:** HTML, CSS, JavaScript
 
 ---
 
-## 🎲 Fun Fact
+## Projects
+
+- **[Job Tech Trends](https://github.com/Illya-Maznitskiy/job-tech-trends)** · [live demo](https://illya-maznitskiy.github.io/job-tech-trends/)  
+  Scrapes 1,000+ DOU.ua jobs and shows the top skills on a dashboard. Weekly autorun, ~90% test coverage.  
+  `Python` `ETL` `Scrapy` `Pandas` `Gemini API` `Docker` `GitHub Actions`
+
+- **[Job Notifier](https://github.com/Illya-Maznitskiy/job-notifier)** · [try the bot](https://t.me/Quick_Jobs_Bot)  
+  Telegram bot that sends relevant jobs. 20,000+ jobs, 50+ users.  
+  `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Playwright`
+
+- **[claude-usage-bar-patched](https://github.com/Illya-Maznitskiy/claude-usage-bar-patched)**  
+  Open-source Linux fix for a Tauri tray app, released as a .deb.  
+  `Tauri` `Linux` `Debugging` `.deb packaging`
+
+- **[Husto Language Studio](https://github.com/Team94Mate/husto_language_studio)** · [live demo](https://husto-language-studio-frontend.onrender.com/)  
+  Team web app for an English school, deployed on Render.  
+  `Django/DRF` `PostgreSQL`
+
+---
+
+## 🎲 Fun fact
+
 I started by printing my age in Python… now I build web apps, automate tasks, and analyze data. 🐍💻
-
----
-
-
-<h2 align="left">My Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Illya-Maznitskiy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Illya-Maznitskiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
----
